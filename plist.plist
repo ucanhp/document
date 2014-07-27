@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://192.168.1.100/OUMEN_IPHONE.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://192.168.1.100/icon512.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://192.168.1.100/icon57.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -22,12 +38,10 @@
 				<string>2.3.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>测试服务器版本</string>
 				<key>title</key>
 				<string>偶们</string>
-				<key>display-image</key>
-				<string>http://192.168.1.100/icon57.png</string>
-				<key>full-size-image</key>
-				<string>http://192.168.1.100/icon512.png</string>
 			</dict>
 		</dict>
 	</array>
