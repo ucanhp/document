@@ -19,11 +19,15 @@
 				<key>bundle-identifier</key>
 				<string>com.oumenapp.submit</string>
 				<key>bundle-version</key>
-				<string>2.3.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>偶们</string>
+				<key>display-image</key>
+				<string>http://192.168.1.100/icon57.png</string>
+				<key>full-size-image</key>
+				<string>http://192.168.1.100/icon512.png</string>
 			</dict>
 		</dict>
 	</array>
